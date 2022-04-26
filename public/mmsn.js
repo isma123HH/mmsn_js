@@ -1,5 +1,4 @@
-import swal2  from 'https://cdn.jsdelivr.net/npm/sweetalert2@11';
-
+//import swal2  from 'https://cdn.jsdelivr.net/npm/sweetalert2@11';
 
 function mmsn(){
     const NAMESPACE = 'test'
